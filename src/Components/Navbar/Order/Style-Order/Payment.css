@@ -1,0 +1,23 @@
+.myPaymentContainer{
+    opacity: 90% !important;
+    backdrop-filter: blur(20px) !important;
+    background: transparent !important;
+    box-shadow: 0 0 35px #000000 !important;
+}
+.myName, .myEmail, .myNumber, .myReference, .myAmount, .myFile, .myDescription{
+    width: 130px !important;
+}
+.mytextarea{
+    min-height: 2.74rem !important;
+    max-height: 9.74rem !important;
+}
+[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button{
+    display: none !important;
+}
+[type="file"]::-webkit-file-upload-button{
+    display: none !important;
+}
+input::-webkit-input-placeholder{
+    color: #6C757D !important;
+    font-size: 0.875rem !important;
+}

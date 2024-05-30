@@ -1,0 +1,31 @@
+.myCustomerRegisterContainer{
+    min-height: 56.2rem !important;
+    background-image: url("../../../../public/BG-Adv/BG-Security02.jpg") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.mySecondCustomerRegisterContainer{
+    width: 50rem !important;
+    box-shadow: 0 0 35px #000000 !important;
+    background: transparent !important;
+    backdrop-filter: blur(20px) !important;
+    opacity: 90% !important;
+    box-shadow: 0 0 10px #FFFFFF !important;
+}
+.myCustomerRegisterIcon, .myCustomerRegisterName{
+    font-family: Dancing Script !important;
+    color: rgba(246, 254, 2, 1) !important;
+}
+.myCustomerRegisterIcon{
+    left: -11% !important;
+}
+.myCustomerRegisterName{
+    left: 25% !important;
+    top: 23% !important;
+}
+.myCustomerLoginLink{
+    color: rgb(194, 194, 9) !important;
+}
+.myCustomerLoginLink:active{
+    color: rgb(255, 255, 2) !important;
+}

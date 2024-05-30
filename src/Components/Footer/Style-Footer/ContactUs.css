@@ -1,0 +1,21 @@
+.myContainerContainer{
+    background-image: url("../../../../public/BG-Adv/BG-Body01.jpg") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.myContactAddress{
+    width: 27.5rem !important;
+    background-color: #000000A0 !important;
+    opacity: 72% !important;
+    box-shadow: 0 0 15px #FFFFFF !important;
+}
+.myContactInputField{
+    width: 70rem !important;
+    background-color: #000000e1 !important;
+    opacity: 72% !important;
+    margin-top: 6rem !important;
+    box-shadow: 0 0 15px #FFFFFF !important;
+}
+.myContactButton{
+    box-shadow: 2px 2px 5px #95b455 !important;
+}

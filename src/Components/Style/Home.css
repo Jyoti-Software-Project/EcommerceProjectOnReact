@@ -1,0 +1,40 @@
+/* To hide Scroll bar for any device */
+::-webkit-scrollbar{
+    display: none !important;
+}
+/* Responsive mobile device view */
+@media (min-width: 0) and (max-width: 980px) {
+    /* Custom css for total container's style */
+    .myContainer{
+        top: -8rem !important;
+    }
+    /* Custom css of Advertise boxes */
+    .product-ref{
+        width: 21rem !important;
+        /* box-shadow: 0 0 5px #000000 !important; */
+    }
+    /* Custom css for style of catagory name */
+    .myCatagoryName{
+        font-size: 1.2rem !important;
+    }
+    /* Custom css for style of catagory name */
+    .myCatagoryLink{
+        font-size: 0.7rem !important;
+    }
+}
+/* Responsive other device view */
+@media (min-width: 981px) and (max-width: 1920px) {
+    /* Custom css for total container's style */
+    .myContainer{
+        top: -12rem !important;
+    }
+    /* Custom css of Advertise boxes */
+    .product-ref{
+        width: 22rem !important;
+        /* box-shadow: 0 0 1px #000000 !important; */
+    }
+    /* Custom hover css of Advertise boxes */
+    .product-ref:hover{
+        top: -10px !important;
+    }
+}

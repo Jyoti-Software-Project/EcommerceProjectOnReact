@@ -1,0 +1,12 @@
+.myDeliveryAddressContainer{
+    opacity: 85% !important;
+    filter: blur("50px") !important;
+    box-shadow: 0 0 35px #000000 !important;
+    line-height: 1rem !important;
+}
+td{
+    vertical-align: middle !important;
+}
+input{
+    outline: none !important;
+}

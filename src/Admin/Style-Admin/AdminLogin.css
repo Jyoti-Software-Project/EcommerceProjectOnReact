@@ -1,0 +1,30 @@
+.myAdminLoginContainer{
+    min-height: 38.7rem !important;
+    background-image: url("../../../public/BG-Adv/BG-AdminLogin.jpg") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.mySecondAdminLoginContainer{
+    width: 50rem !important;
+    box-shadow: 0 0 35px #ffffff !important;
+    background: transparent !important;
+    backdrop-filter: blur(20px) !important;
+    opacity: 90% !important;
+}
+.myAdminLoginIcon, .myAdminLoginName{
+    font-family: Dancing Script !important;
+    color: rgba(246, 254, 2, 1) !important;
+}
+.myAdminLoginIcon{
+    left: -11% !important;
+}
+.myAdminLoginName{
+    left: 25% !important;
+    top: 23% !important;
+}
+.myAdminRegisterLink{
+    color: rgb(194, 194, 9) !important;
+}
+.myAdminRegisterLink:active{
+    color: rgb(255, 255, 2) !important;
+}

@@ -1,0 +1,13 @@
+.myProductContainer{
+    background-image: url("../../../public/BG-Adv/BG_AddProduct.jpeg") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    min-height: 33rem !important;
+}
+.mySecondProductContainer{
+    width: 50rem !important;
+    background-color: #000000b8 !important;
+    opacity: 90% !important;
+    filter: blur("20px") !important;
+    box-shadow: 0 0 35px #FFFFFF !important;
+}

@@ -1,0 +1,21 @@
+.myAboutContainer{
+    background-image: url("../../../../public/BG-Adv/BG-Body01.jpg") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.myImageContainer{
+    clip-path: polygon(32% 12%, 65% 12%, 100% 0, 100% 100%, 65% 87%, 32% 87%, 0 100%, 0 0) !important;
+}
+.myDeveloperHeading{
+    /* box-shadow: 2px 2px 3px red !important; */
+    text-shadow: 2px 2px 3px #FFFFFF !important;
+}
+.devPic{
+    width: 150px !important;
+    height: 150px !important;
+    box-shadow: 3px 2px 4px #FFFFFF !important;
+    box-sizing: borderBox !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}

@@ -1,0 +1,13 @@
+.myPlaceOrderContainer{
+    min-height: 16rem !important;
+    max-height: 20rem !important;
+    opacity: 85% !important;
+    filter: blur("50px") !important;
+    box-shadow: 0 0 35px #000000 !important;
+}
+/* .myPlaceOrderContainer::-webkit-scrollbar{
+    display: block;
+} */
+.myPlaceOrderText{
+    color: #000000 !important;
+}

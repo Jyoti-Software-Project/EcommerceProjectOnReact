@@ -1,0 +1,8 @@
+.myAddressContainer{
+    opacity: 85% !important;
+    filter: blur("50px") !important;
+    box-shadow: 0 0 35px #000000 !important;
+}
+input::-webkit-input-placeholder{
+    font-size: 0.875rem !important;
+}

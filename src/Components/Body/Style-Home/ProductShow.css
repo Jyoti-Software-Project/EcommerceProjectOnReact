@@ -1,0 +1,10 @@
+.myProductShowContainer{
+    background-image: url("../../../../public/BG-Adv/BG-ProductShow01.jpg") !important;
+    background-size: 100% !important;
+    background-repeat: repeat-y !important;
+}
+.myProductShowTable{
+    background-color: #EAF0F0 !important;
+    opacity: 95% !important;
+    box-shadow: 0 0 30px #FFFFFF;
+}

@@ -1,0 +1,5 @@
+.myOrderContainer{
+    /* background-image: url("../../../../public/BG-Adv/istockphoto.jpg") !important; */
+    background: linear-gradient(45deg, #19547b,#5b86e5, #36d1dc, #36d1dc,#5b86e5, #19547b) !important;
+    background-size: cover !important;
+}

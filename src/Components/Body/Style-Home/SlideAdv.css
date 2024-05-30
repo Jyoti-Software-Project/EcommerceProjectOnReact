@@ -1,0 +1,65 @@
+/* Custom css to mix slider image with background color */
+.my-pic-bottom-blur{
+    mask-image: linear-gradient(#000000, rgba(0, 0, 0, 0)) !important;
+}
+/* Responsive mobile device view */
+@media (min-width: 0) and (max-width: 980px) {
+    .myText-1{
+        top: 2.8rem !important;
+        left: 8rem !important;
+    }
+    .myText-2{
+        top: 1rem !important;
+        left: 13rem !important;
+    }
+    .myText-3{
+        top: 2rem !important;
+        left: 8rem !important;
+    }
+    .myText-4{
+        top: 2.5rem !important;
+        left: 8rem !important;
+    }
+    .myText-5{
+        top: 2.5rem !important;
+        left: 12rem !important;
+    }
+    .myText-6{
+        top: 4rem !important;
+        left: 9rem !important;
+    }
+    .myText-1, .myText-2, .myText-3, .myText-4, .myText-5, .myText-6{
+        width: 380px !important;
+        font-size: 1.0rem !important;
+    }
+}
+/* Responsive other device view */
+@media (min-width: 981px) and (max-width: 1920px){
+    .myText-1{
+        top: 5rem !important;
+        left: 20rem !important;
+    }
+    .myText-2{
+        top: 2rem !important;
+        left: 25rem !important;
+    }
+    .myText-3{
+        top: 3rem !important;
+        left: 17rem !important;
+    }
+    .myText-4{
+        top: 2.5rem !important;
+        left: 16rem !important;
+    }
+    .myText-5{
+        top: 2.5rem !important;
+        left: 25rem !important;
+    }
+    .myText-6{
+        top: 4rem !important;
+        left: 13rem !important;
+    }
+    .myText-1, .myText-2, .myText-3, .myText-4, .myText-5, .myText-6{
+        width: 500px !important;
+    }
+}
